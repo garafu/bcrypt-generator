@@ -1,0 +1,23 @@
+{
+  "name": "bcrypt-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garafu/bcrypt-generator.git"
+  },
+  "author": "Akinari Tsugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garafu/bcrypt-generator/issues"
+  },
+  "homepage": "https://github.com/garafu/bcrypt-generator#readme",
+  "dependencies": {
+    "argv": "^0.0.2",
+    "bcrypt": "^5.0.1"
+  }
+}
